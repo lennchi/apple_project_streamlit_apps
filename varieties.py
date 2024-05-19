@@ -2,7 +2,7 @@ import pandas as pd
 import streamlit as st
 import random
 
-df = pd.read_csv("C:/Users/elena/Desktop/DA_P/24_da_p/00_project/clean/seznam_odrud.csv", encoding='utf-8')
+df = pd.read_csv("seznam_odrud.csv", encoding='utf-8')
 
 # Make a list of varieties, strip off junk chars
 df = df['Název odrůdy']
