@@ -19,7 +19,7 @@ from PIL import Image
 
 
 def get_fruits(generation):
-    """Identify user's generation based on their birth year and get fruit images for them"""
+    """Get fruit images and percent captions based on user's chosen generation"""
     # Boomers
     if generation == 'Baby boomer (1940–1963)':
         return [img_apple, img_strawberry, img_banana], ['37 %', '36 %', '34 %']
@@ -53,9 +53,6 @@ if st.button("Dáme ovoce!"):
     images = get_fruits(generation)[0]
     captions = get_fruits(generation)[1]
     slot_1, slot_2, slot_3 = st.columns(3)
-
-
-
 
     with slot_1:
         img_1 = Image.open(images[0])
