@@ -1,6 +1,8 @@
 import pandas as pd
 import streamlit as st
 import random
+import base64
+
 
 # Load the data
 df = pd.read_csv("seznam_odrud.csv", encoding='utf-8')
@@ -21,11 +23,8 @@ st.markdown(
     """
     <style>
     .centered {
-        display: flex;
-        flex-direction: column;
         justify-content: center;
         align-items: center;
-        height: 50px;
     }
     .centered h1 {
         text-align: center;
@@ -42,10 +41,10 @@ st.markdown(
     unsafe_allow_html=True
 )
 
+
 # Center H1 header
 header1 = '🍎 Jablko pro tebe 🍎'
 st.markdown(f'<div class="centered"><h1>{header1}</h1></div>', unsafe_allow_html=True)
-
 
 # Center the button
 st.markdown('<div class="centered">', unsafe_allow_html=True)
