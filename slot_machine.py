@@ -58,7 +58,7 @@ if st.button("Dáme ovoce!"):
         img1_placeholder.image(Image.open(flash_images()), use_column_width=True)
         img2_placeholder.image(Image.open(flash_images()), use_column_width=True)
         img3_placeholder.image(Image.open(flash_images()), use_column_width=True)
-        time.sleep(0.02)
+        time.sleep(0.03)
 
     # # Flash images
     # while time.time() < end_time:
