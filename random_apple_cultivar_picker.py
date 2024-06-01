@@ -32,7 +32,7 @@ import random
 # Load the data
 df = pd.read_csv("seznam_odrud.csv", encoding='utf-8')
 
-# Make a list of varieties, strip off junk chars
+# Make a list of cultivars, strip off junk chars
 varieties = df['Název odrůdy'].to_list()
 varieties = [variety.strip('\xa0') for variety in varieties]
 
@@ -43,8 +43,7 @@ st.set_page_config(
     layout="centered"
 )
 
-# height: 100vh;
-# Centering everything
+# Markdown for centering
 st.markdown(
     """
     <style>
@@ -53,7 +52,7 @@ st.markdown(
         flex-direction: column;
         justify-content: center;
         align-items: center;
-        height: 250px;
+        height: 50px;
     }
     .centered h1 {
         text-align: center;
