@@ -53,6 +53,7 @@ st.markdown(
         flex-direction: column;
         justify-content: center;
         align-items: center;
+        height: 250px;
     }
     .centered h1 {
         text-align: center;
