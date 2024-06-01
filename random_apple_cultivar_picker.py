@@ -42,16 +42,18 @@ st.markdown(
 )
 
 
-# Center H1 header
-header1 = '🍎 Jablko pro tebe 🍎'
-st.markdown(f'<div class="centered"><h1>{header1}</h1></div>', unsafe_allow_html=True)
+with st.container(height=300, border=1):
 
-# Center the button
-st.markdown('<div class="centered">', unsafe_allow_html=True)
-button = st.button('Vylosuj si odrůdu')
-st.markdown('</div>', unsafe_allow_html=True)
+    # Center H1 header
+    header1 = '🍎 Jablko pro tebe 🍎'
+    st.markdown(f'<div class="centered"><h1>{header1}</h1></div>', unsafe_allow_html=True)
 
-# Button behavior and output
-if button:
-    your_apple = random.choice(varieties)
-    st.markdown(f'<div class="centered"><h2>{your_apple}</h2></div>', unsafe_allow_html=True)
+    # Center the button
+    st.markdown('<div class="centered">', unsafe_allow_html=True)
+    button = st.button('Vylosuj si odrůdu')
+    st.markdown('</div>', unsafe_allow_html=True)
+
+    # Button behavior and output
+    if button:
+        your_apple = random.choice(varieties)
+        st.markdown(f'<div class="centered"><h2>{your_apple}</h2></div>', unsafe_allow_html=True)
