@@ -11,10 +11,10 @@ def get_fruits(generation):
         return [img_apple, img_strawberry, img_banana], ['37 %', '36 %', '34 %']
     # Gen X
     elif generation == 'Gen X (1964–1980)':
-        return [img_banana, img_strawberry, img_apple], ['42 %', '39 %', '30 %']
+        return [img_banana, img_strawberry, img_apple], ['42 %', '39 %', '34 %']
     # Millenials
     elif generation == 'Mileniál (1981–1996)':
-        return [img_banana, img_strawberry, img_apple], ['42 %', '39 %', '34 %']
+        return [img_banana, img_strawberry, img_apple], ['42 %', '39 %', '30 %']
     # Gen Z
     else:
         return [img_strawberry, img_banana, img_apple], ['45 %', '34 %', '23 %']
