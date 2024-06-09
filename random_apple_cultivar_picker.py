@@ -10,7 +10,6 @@ df = pd.read_csv("seznam_odrud.csv", encoding='utf-8')
 
 # Make a list of cultivars, strip off junk chars
 varieties = df['Název odrůdy'].to_list()
-varieties = [variety.strip('\xa0') for variety in varieties]
 
 
 # STREAMLIT
@@ -38,7 +37,7 @@ st.markdown(
     .stButton button {
         display: block;
         margin: 0 auto;
-    }         
+    }
     </style>
     """,
     unsafe_allow_html=True
@@ -49,7 +48,8 @@ st.image('img/streamlit_apple_900.png')
 
 # Center the header
 header = 'Jablko pro tebe'
-st.markdown(f'<div class="centered"><h1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{header}</h1></div>', unsafe_allow_html=True)
+extra_space_header = "nbsp;" * 5
+st.markdown(f'<div class="centered"><h1>{extra_space_header}{header}</h1></div>', unsafe_allow_html=True)
 
 # Center the button
 st.markdown('<div class="centered">', unsafe_allow_html=True)
@@ -58,7 +58,6 @@ st.markdown('</div>', unsafe_allow_html=True)
 
 # Button behavior and output
 if button:
-    your_apple = random.choice(varieties)
-    # extra_space = "&nbsp;"*(round(0.4*len(your_apple)))
-    extra_space = "&nbsp;" * 7
-    st.markdown(f'<div class="centered"><h2>{extra_space}{your_apple}</h2></div>', unsafe_allow_html=True)
+    apple = random.choice(varieties)
+    extra_space_apple = "&nbsp;" * 7
+    st.markdown(f'<div class="centered"><h3>{extra_space_apple}{apple}</h3></div>', unsafe_allow_html=True)

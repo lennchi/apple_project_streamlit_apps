@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1d002c0a-21c5-4cf0-b538-d96922d43a88" name="Changes" comment="added extra space">
+      <change beforePath="$PROJECT_DIR$/img/apple_pink_200.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/streamlit_apple_300.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/streamlit_apple_500.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/random_apple_cultivar_picker.py" beforeDir="false" afterPath="$PROJECT_DIR$/random_apple_cultivar_picker.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -383,7 +386,35 @@
       <option name="project" value="LOCAL" />
       <updated>1717958725609</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="added extra space">
+      <created>1717958784096</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1717958784096</updated>
+    </task>
+    <task id="LOCAL-00042" summary="added extra space">
+      <created>1717958803751</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1717958803751</updated>
+    </task>
+    <task id="LOCAL-00043" summary="added extra space">
+      <created>1717958824702</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1717958824702</updated>
+    </task>
+    <task id="LOCAL-00044" summary="added extra space">
+      <created>1717958858497</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1717958858497</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
