@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1d002c0a-21c5-4cf0-b538-d96922d43a88" name="Changes" comment="added extra space">
-      <change beforePath="$PROJECT_DIR$/img/apple_pink_200.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/streamlit_apple_300.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/streamlit_apple_500.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/random_apple_cultivar_picker.py" beforeDir="false" afterPath="$PROJECT_DIR$/random_apple_cultivar_picker.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -414,7 +411,14 @@
       <option name="project" value="LOCAL" />
       <updated>1717958858497</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="added extra space">
+      <created>1717961666297</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1717961666297</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
