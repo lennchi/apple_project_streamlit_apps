@@ -60,4 +60,4 @@ st.markdown('</div>', unsafe_allow_html=True)
 if button:
     your_apple = random.choice(varieties)
     extra_space = "&nbsp;"*(round(0.4*len(your_apple)))
-    st.markdown(f'<div class="centered"><h2>{extra_space}{your_apple}</h2></div>', unsafe_allow_html=True)
+    st.markdown(f'<div class="centered"><h2>{"&nbsp;"*(round(0.4*len(your_apple)))}{your_apple}</h2></div>', unsafe_allow_html=True)
