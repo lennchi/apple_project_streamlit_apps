@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1d002c0a-21c5-4cf0-b538-d96922d43a88" name="Changes" comment="corrected generation percentages">
+      <change afterPath="$PROJECT_DIR$/img/streamlit_apple_300.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/streamlit_apple_500.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/streamlit_apple_900.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/random_apple_cultivar_picker.py" beforeDir="false" afterPath="$PROJECT_DIR$/random_apple_cultivar_picker.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/slot_machine.py" beforeDir="false" afterPath="$PROJECT_DIR$/slot_machine.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2ggLGSIKMMmbnpfTrc5Q5af5sIC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/elena/PycharmProjects/streamlit_101/img&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\elena\PycharmProjects\streamlit_101\img" />
+      <recent name="C:\Users\elena\PycharmProjects\streamlit_101" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\elena\PycharmProjects\streamlit_101\img" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.random_apple_cultivar_picker">
+    <configuration name="random_apple_cultivar_picker" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="streamlit_101" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\elena\PycharmProjects\streamlit_101\random_apple_cultivar_picker.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="slot_machine" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="streamlit_101" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/slot_machine.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.random_apple_cultivar_picker" />
+        <item itemvalue="Python.slot_machine" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1d002c0a-21c5-4cf0-b538-d96922d43a88" name="Changes" comment="" />
+      <created>1716114177556</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1716114177556</updated>
+    </task>
+    <task id="LOCAL-00001" summary="random apple variety picker">
+      <created>1716116375427</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1716116375427</updated>
+    </task>
+    <task id="LOCAL-00002" summary="random apple variety picker">
+      <created>1716116673034</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1716116673034</updated>
+    </task>
+    <task id="LOCAL-00003" summary="random apple variety picker">
+      <created>1716116876670</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1716116876670</updated>
+    </task>
+    <task id="LOCAL-00004" summary="random apple variety picker">
+      <created>1716117645741</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1716117645741</updated>
+    </task>
+    <task id="LOCAL-00005" summary="random apple variety picker">
+      <created>1716139961119</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1716139961119</updated>
+    </task>
+    <task id="LOCAL-00006" summary="fruit slot machine">
+      <created>1716666982128</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1716666982128</updated>
+    </task>
+    <task id="LOCAL-00007" summary="fruit slot machine">
+      <created>1716667879217</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1716667879217</updated>
+    </task>
+    <task id="LOCAL-00008" summary="gen dropdown instead of birth year">
+      <created>1716668191493</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1716668191493</updated>
+    </task>
+    <task id="LOCAL-00009" summary="gen dropdown instead of birth year">
+      <created>1716708617689</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1716708617689</updated>
+    </task>
+    <task id="LOCAL-00010" summary="gen dropdown instead of birth year">
+      <created>1716749734150</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1716749734150</updated>
+    </task>
+    <task id="LOCAL-00011" summary="changed header">
+      <created>1716749835886</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1716749835886</updated>
+    </task>
+    <task id="LOCAL-00012" summary="changed header">
+      <created>1716749857998</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1716749857998</updated>
+    </task>
+    <task id="LOCAL-00013" summary="centered everything with css/html">
+      <created>1717252503048</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1717252503048</updated>
+    </task>
+    <task id="LOCAL-00014" summary="fixed height">
+      <created>1717252974942</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1717252974942</updated>
+    </task>
+    <task id="LOCAL-00015" summary="fixed height">
+      <created>1717253228490</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1717253228490</updated>
+    </task>
+    <task id="LOCAL-00016" summary="fixed height">
+      <created>1717253961336</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1717253961336</updated>
+    </task>
+    <task id="LOCAL-00017" summary="aligned the output better (hopefully :D)">
+      <created>1717254062478</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1717254062478</updated>
+    </task>
+    <task id="LOCAL-00018" summary="aligned the output better (hopefully :D)">
+      <created>1717254101177</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1717254101177</updated>
+    </task>
+    <task id="LOCAL-00019" summary="playing with height">
+      <created>1717256081379</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1717256081379</updated>
+    </task>
+    <task id="LOCAL-00020" summary="trying out containers">
+      <created>1717256252633</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1717256252633</updated>
+    </task>
+    <task id="LOCAL-00021" summary="cleaned up and leaving it alone">
+      <created>1717256501537</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1717256501537</updated>
+    </task>
+    <task id="LOCAL-00022" summary="added header pic">
+      <created>1717259011005</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1717259011005</updated>
+    </task>
+    <task id="LOCAL-00023" summary="added transparent bg">
+      <created>1717259624628</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1717259624628</updated>
+    </task>
+    <task id="LOCAL-00024" summary="updated header pic">
+      <created>1717501700461</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1717501700461</updated>
+    </task>
+    <task id="LOCAL-00025" summary="updated header pic">
+      <created>1717502163859</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1717502163859</updated>
+    </task>
+    <task id="LOCAL-00026" summary="corrected generation percentages">
+      <created>1717531331513</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1717531331513</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="random apple variety picker" />
+    <MESSAGE value="fruit slot machine" />
+    <MESSAGE value="gen dropdown instead of birth year" />
+    <MESSAGE value="changed header" />
+    <MESSAGE value="centered everything with css/html" />
+    <MESSAGE value="fixed height" />
+    <MESSAGE value="aligned the output better (hopefully :D)" />
+    <MESSAGE value="playing with height" />
+    <MESSAGE value="trying out containers" />
+    <MESSAGE value="cleaned up and leaving it alone" />
+    <MESSAGE value="added header pic" />
+    <MESSAGE value="added transparent bg" />
+    <MESSAGE value="updated header pic" />
+    <MESSAGE value="corrected generation percentages" />
+    <option name="LAST_COMMIT_MESSAGE" value="corrected generation percentages" />
+  </component>
+</project>
