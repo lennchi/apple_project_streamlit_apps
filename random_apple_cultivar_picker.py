@@ -38,18 +38,18 @@ st.markdown(
     .stButton button {
         display: block;
         margin: 0 auto;
-    }    
+    }       
     </style>
     """,
     unsafe_allow_html=True
 )
 
 # Center apple img
-st.image('img/jablko_pro_tebe.png')
+st.image('img/streamlit_apple_900.png')
 
-# # Center the header
-# header = 'Jablko pro tebe'
-# st.markdown(f'<div class="centered"><h1>{header}</h1></div>', unsafe_allow_html=True)
+# Center the header
+header = 'Jablko pro tebe'
+st.markdown(f'<div class="centered"><h1>{header}</h1></div>', unsafe_allow_html=True)
 
 # Center the button
 st.markdown('<div class="centered">', unsafe_allow_html=True)
