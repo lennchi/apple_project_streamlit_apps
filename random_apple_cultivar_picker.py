@@ -48,7 +48,7 @@ st.image('img/streamlit_apple_900.png')
 
 # Center the header
 header = 'Jablko pro tebe'
-st.markdown(f'<div class="centered"><h1>nbsp;nbsp;{header}</h1></div>', unsafe_allow_html=True)
+st.markdown(f'<div class="centered"><h1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{header}</h1></div>', unsafe_allow_html=True)
 
 # Center the button
 st.markdown('<div class="centered">', unsafe_allow_html=True)
@@ -57,6 +57,6 @@ st.markdown('</div>', unsafe_allow_html=True)
 
 # Button behavior and output
 if button:
-    apple = random.choice(varieties)
-    extra_space_apple = "&nbsp;" * 7
-    st.markdown(f'<div class="centered"><h3>{extra_space_apple}{apple}</h3></div>', unsafe_allow_html=True)
+    your_apple = random.choice(varieties)
+    extra_space = "&nbsp;" * 7
+    st.markdown(f'<div class="centered"><h2>{extra_space}{your_apple}</h2></div>', unsafe_allow_html=True)
