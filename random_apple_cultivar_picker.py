@@ -49,7 +49,7 @@ st.image('img/streamlit_apple_900.png')
 
 # Center the header
 header = 'Jablko pro tebe'
-st.markdown(f'<div class="centered"><h1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{header}</h1></div>', unsafe_allow_html=True)
+st.markdown(f'<div class="centered"><h1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{header}</h1></div>', unsafe_allow_html=True)
 
 # Center the button
 st.markdown('<div class="centered">', unsafe_allow_html=True)
