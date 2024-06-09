@@ -1,12 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1d002c0a-21c5-4cf0-b538-d96922d43a88" name="Changes" comment="corrected generation percentages">
-      <change afterPath="$PROJECT_DIR$/img/streamlit_apple_300.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/streamlit_apple_500.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/streamlit_apple_900.png" afterDir="false" />
+    <list default="true" id="1d002c0a-21c5-4cf0-b538-d96922d43a88" name="Changes" comment="new apple image">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/random_apple_cultivar_picker.py" beforeDir="false" afterPath="$PROJECT_DIR$/random_apple_cultivar_picker.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/slot_machine.py" beforeDir="false" afterPath="$PROJECT_DIR$/slot_machine.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -289,7 +286,28 @@
       <option name="project" value="LOCAL" />
       <updated>1717531331513</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="new apple image">
+      <created>1717950325929</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1717950325929</updated>
+    </task>
+    <task id="LOCAL-00028" summary="new apple image">
+      <created>1717950476532</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1717950476532</updated>
+    </task>
+    <task id="LOCAL-00029" summary="new apple image">
+      <created>1717950511288</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1717950511288</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -318,6 +336,7 @@
     <MESSAGE value="added transparent bg" />
     <MESSAGE value="updated header pic" />
     <MESSAGE value="corrected generation percentages" />
-    <option name="LAST_COMMIT_MESSAGE" value="corrected generation percentages" />
+    <MESSAGE value="new apple image" />
+    <option name="LAST_COMMIT_MESSAGE" value="new apple image" />
   </component>
 </project>
