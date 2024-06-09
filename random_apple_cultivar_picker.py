@@ -14,7 +14,7 @@ varieties = [variety.strip('\xa0') for variety in varieties]
 
 
 # STREAMLIT
-# Set page config
+# Set page configs
 st.set_page_config(
     page_title="Jablko pro tebe",
     page_icon="🍎",
