@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1d002c0a-21c5-4cf0-b538-d96922d43a88" name="Changes" comment="test - long names">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/random_apple_cultivar_picker.py" beforeDir="false" afterPath="$PROJECT_DIR$/random_apple_cultivar_picker.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -125,13 +124,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1716114177556</updated>
-    </task>
-    <task id="LOCAL-00014" summary="fixed height">
-      <created>1717252974942</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1717252974942</updated>
     </task>
     <task id="LOCAL-00015" summary="fixed height">
       <created>1717253228490</created>
@@ -469,7 +461,14 @@
       <option name="project" value="LOCAL" />
       <updated>1718041261671</updated>
     </task>
-    <option name="localTasksCounter" value="63" />
+    <task id="LOCAL-00063" summary="test - long names">
+      <created>1718041524469</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1718041524469</updated>
+    </task>
+    <option name="localTasksCounter" value="64" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
