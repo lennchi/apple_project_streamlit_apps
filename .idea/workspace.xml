@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1d002c0a-21c5-4cf0-b538-d96922d43a88" name="Changes" comment="changed header pic - yet again :D">
+    <list default="true" id="1d002c0a-21c5-4cf0-b538-d96922d43a88" name="Changes" comment="testing line breaks">
+      <change afterPath="$PROJECT_DIR$/seznam_odrud_text.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/jablko_pro_tebe.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/streamlit_apple_900.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/random_apple_cultivar_picker.py" beforeDir="false" afterPath="$PROJECT_DIR$/random_apple_cultivar_picker.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -28,23 +33,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/elena/PycharmProjects/streamlit_101/img&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/elena/PycharmProjects/streamlit_101"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\elena\PycharmProjects\streamlit_101\img" />
       <recent name="C:\Users\elena\PycharmProjects\streamlit_101" />
+      <recent name="C:\Users\elena\PycharmProjects\streamlit_101\img" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\elena\PycharmProjects\streamlit_101\img" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.random_apple_cultivar_picker">
+  <component name="RunManager" selected="Python.testing">
     <configuration name="random_apple_cultivar_picker" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="streamlit_101" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -87,8 +92,30 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="testing" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="streamlit_101" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testing.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.testing" />
         <item itemvalue="Python.random_apple_cultivar_picker" />
         <item itemvalue="Python.slot_machine" />
       </list>
@@ -102,20 +129,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1716114177556</updated>
-    </task>
-    <task id="LOCAL-00006" summary="fruit slot machine">
-      <created>1716666982128</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1716666982128</updated>
-    </task>
-    <task id="LOCAL-00007" summary="fruit slot machine">
-      <created>1716667879217</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1716667879217</updated>
     </task>
     <task id="LOCAL-00008" summary="gen dropdown instead of birth year">
       <created>1716668191493</created>
@@ -446,7 +459,21 @@
       <option name="project" value="LOCAL" />
       <updated>1718040119113</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary="testing line breaks">
+      <created>1718040240482</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1718040240482</updated>
+    </task>
+    <task id="LOCAL-00056" summary="testing line breaks">
+      <created>1718040309887</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1718040309887</updated>
+    </task>
+    <option name="localTasksCounter" value="57" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -478,6 +505,7 @@
     <MESSAGE value="new apple image" />
     <MESSAGE value="added extra space" />
     <MESSAGE value="changed header pic - yet again :D" />
-    <option name="LAST_COMMIT_MESSAGE" value="changed header pic - yet again :D" />
+    <MESSAGE value="testing line breaks" />
+    <option name="LAST_COMMIT_MESSAGE" value="testing line breaks" />
   </component>
 </project>

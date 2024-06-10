@@ -5,10 +5,10 @@ import random
 
 # PANDAS
 # Load the data
-df = pd.read_csv("seznam_odrud.csv", encoding='utf-8')
+df = pd.read_csv("seznam_odrud_test.csv", encoding='utf-8')
 
 # Make a list of cultivars, strip off junk chars
-varieties = df['Název odrůdy'].to_list()
+cultivars = df['Název odrůdy'].to_list()
 
 
 # STREAMLIT
@@ -56,7 +56,7 @@ st.markdown('</div>', unsafe_allow_html=True)
 
 # Button behavior and output
 if button:
-    your_apple = random.choice(varieties)
+    your_apple = random.choice(cultivars)
     if len(your_apple) > 22:
         st.markdown(f'<div class="centered"><h2>{your_apple}</h2></div>', unsafe_allow_html=True)
     else:
