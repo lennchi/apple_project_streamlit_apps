@@ -43,7 +43,7 @@ st.markdown(
 )
 
 # Center apple img
-st.image('img/streamlit_apple_800_02.png')
+st.image('img/streamlit_apple_900_02.png')
 
 # Center the header
 header = 'Jablko pro tebe'

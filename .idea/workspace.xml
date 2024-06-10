@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1d002c0a-21c5-4cf0-b538-d96922d43a88" name="Changes" comment="added extra space">
-      <change afterPath="$PROJECT_DIR$/img/streamlit_apple_900_02.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="1d002c0a-21c5-4cf0-b538-d96922d43a88" name="Changes" comment="changed header pic - yet again :D">
       <change beforePath="$PROJECT_DIR$/random_apple_cultivar_picker.py" beforeDir="false" afterPath="$PROJECT_DIR$/random_apple_cultivar_picker.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -104,27 +102,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1716114177556</updated>
-    </task>
-    <task id="LOCAL-00002" summary="random apple variety picker">
-      <created>1716116673034</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1716116673034</updated>
-    </task>
-    <task id="LOCAL-00003" summary="random apple variety picker">
-      <created>1716116876670</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1716116876670</updated>
-    </task>
-    <task id="LOCAL-00004" summary="random apple variety picker">
-      <created>1716117645741</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1716117645741</updated>
     </task>
     <task id="LOCAL-00005" summary="random apple variety picker">
       <created>1716139961119</created>
@@ -448,7 +425,28 @@
       <option name="project" value="LOCAL" />
       <updated>1717964285276</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="changed header pic - yet again :D">
+      <created>1718039685576</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1718039685576</updated>
+    </task>
+    <task id="LOCAL-00052" summary="changed header pic - yet again :D">
+      <created>1718039775460</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1718039775460</updated>
+    </task>
+    <task id="LOCAL-00053" summary="changed header pic - yet again :D">
+      <created>1718039854424</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1718039854424</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -479,6 +477,7 @@
     <MESSAGE value="corrected generation percentages" />
     <MESSAGE value="new apple image" />
     <MESSAGE value="added extra space" />
-    <option name="LAST_COMMIT_MESSAGE" value="added extra space" />
+    <MESSAGE value="changed header pic - yet again :D" />
+    <option name="LAST_COMMIT_MESSAGE" value="changed header pic - yet again :D" />
   </component>
 </project>
