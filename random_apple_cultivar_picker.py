@@ -57,9 +57,5 @@ st.markdown('</div>', unsafe_allow_html=True)
 # Button behavior and output
 if button:
     your_apple = random.choice(cultivars)
-    if your_apple == 'Watervlietské mramorované':
-    # if len(your_apple) > 20:
-        st.markdown(f'<div class="centered"><h2>{your_apple}</h2></div>', unsafe_allow_html=True)
-    else:
-        st.markdown(f'<div class="centered"><h2>{"&nbsp;" * 6}{your_apple}</h2></div>', unsafe_allow_html=True)
+    st.markdown(f'<div class="centered"><h2>{"&nbsp;" * 5}{your_apple}</h2></div>', unsafe_allow_html=True)
 

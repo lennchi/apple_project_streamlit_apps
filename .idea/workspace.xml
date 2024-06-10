@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1d002c0a-21c5-4cf0-b538-d96922d43a88" name="Changes" comment="testing line breaks">
-      <change afterPath="$PROJECT_DIR$/seznam_odrud_text.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testing.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/jablko_pro_tebe.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/streamlit_apple_900.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/random_apple_cultivar_picker.py" beforeDir="false" afterPath="$PROJECT_DIR$/random_apple_cultivar_picker.py" afterDir="false" />
-    </list>
+    <list default="true" id="1d002c0a-21c5-4cf0-b538-d96922d43a88" name="Changes" comment="test - long names" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -129,27 +122,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1716114177556</updated>
-    </task>
-    <task id="LOCAL-00008" summary="gen dropdown instead of birth year">
-      <created>1716668191493</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1716668191493</updated>
-    </task>
-    <task id="LOCAL-00009" summary="gen dropdown instead of birth year">
-      <created>1716708617689</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1716708617689</updated>
-    </task>
-    <task id="LOCAL-00010" summary="gen dropdown instead of birth year">
-      <created>1716749734150</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1716749734150</updated>
     </task>
     <task id="LOCAL-00011" summary="changed header">
       <created>1716749835886</created>
@@ -473,7 +445,28 @@
       <option name="project" value="LOCAL" />
       <updated>1718040309887</updated>
     </task>
-    <option name="localTasksCounter" value="57" />
+    <task id="LOCAL-00057" summary="test - long names">
+      <created>1718040847360</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1718040847360</updated>
+    </task>
+    <task id="LOCAL-00058" summary="test - long names">
+      <created>1718040875725</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1718040875726</updated>
+    </task>
+    <task id="LOCAL-00059" summary="test - long names">
+      <created>1718041080166</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1718041080167</updated>
+    </task>
+    <option name="localTasksCounter" value="60" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -506,6 +499,7 @@
     <MESSAGE value="added extra space" />
     <MESSAGE value="changed header pic - yet again :D" />
     <MESSAGE value="testing line breaks" />
-    <option name="LAST_COMMIT_MESSAGE" value="testing line breaks" />
+    <MESSAGE value="test - long names" />
+    <option name="LAST_COMMIT_MESSAGE" value="test - long names" />
   </component>
 </project>
