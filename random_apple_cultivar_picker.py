@@ -1,7 +1,6 @@
 import pandas as pd
 import streamlit as st
 import random
-import base64
 
 
 # PANDAS
@@ -44,7 +43,7 @@ st.markdown(
 )
 
 # Center apple img
-st.image('img/streamlit_apple_900.png')
+st.image('img/streamlit_apple_900_02.png')
 
 # Center the header
 header = 'Jablko pro tebe'

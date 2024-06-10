@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1d002c0a-21c5-4cf0-b538-d96922d43a88" name="Changes" comment="added extra space">
+      <change afterPath="$PROJECT_DIR$/img/streamlit_apple_900_02.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/random_apple_cultivar_picker.py" beforeDir="false" afterPath="$PROJECT_DIR$/random_apple_cultivar_picker.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -102,13 +104,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1716114177556</updated>
-    </task>
-    <task id="LOCAL-00001" summary="random apple variety picker">
-      <created>1716116375427</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1716116375427</updated>
     </task>
     <task id="LOCAL-00002" summary="random apple variety picker">
       <created>1716116673034</created>
@@ -446,7 +441,14 @@
       <option name="project" value="LOCAL" />
       <updated>1717961929748</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="added extra space">
+      <created>1717964285274</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1717964285276</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
