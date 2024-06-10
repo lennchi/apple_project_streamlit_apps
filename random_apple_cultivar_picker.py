@@ -5,7 +5,7 @@ import random
 
 # PANDAS
 # Load the data
-df = pd.read_csv("seznam_odrud_test.csv", encoding='utf-8')
+df = pd.read_csv("seznam_odrud_text.csv", encoding='utf-8')
 
 # Make a list of cultivars, strip off junk chars
 cultivars = df['Název odrůdy'].to_list()
